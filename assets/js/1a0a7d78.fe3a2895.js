@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmath_textbook=self.webpackChunkmath_textbook||[]).push([[7019],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
