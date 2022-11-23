@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmath_textbook=self.webpackChunkmath_textbook||[]).push([[7517],{2856:e=>{e.exports=JSON.parse('{"permalink":"/dive_into_computer_science/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
