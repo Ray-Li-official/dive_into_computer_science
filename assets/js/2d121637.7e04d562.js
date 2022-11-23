@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmath_textbook=self.webpackChunkmath_textbook||[]).push([[4597],{4010:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/dive_into_computer_science/blog/tags/hola","allTagsPath":"/dive_into_computer_science/blog/tags","count":1}')}}]);

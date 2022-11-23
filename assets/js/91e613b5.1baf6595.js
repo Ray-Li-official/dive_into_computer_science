@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmath_textbook=self.webpackChunkmath_textbook||[]).push([[4872],{5195:e=>{e.exports=JSON.parse('{"permalink":"/dive_into_computer_science/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
